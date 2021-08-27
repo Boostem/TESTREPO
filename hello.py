@@ -1,1 +1,5 @@
 print("hello")
+print("how are you")
+print("im good")
+temp = input()
+print(temp)
